@@ -14,7 +14,7 @@ class Bot:
         }
         self.headers = {
             'Accepts': 'application/json',
-            'X-CMC_PRO_API_KEY': 'a380b07a-f12a-41ee-b156-b2a7bad1ba35',
+            'X-CMC_PRO_API_KEY': 'YOUR_API_KEY',
         }
         self.orders = []
 
